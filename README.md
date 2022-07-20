@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Jiangning Zhang
+
+[![Jiangning Zhang's github stats](https://github-readme-stats.vercel.app/api?username=zhangzjn&hide=contribs,prs&show_icons=true&theme=solarized-light)](https://github.com/zhangzjn/github-readme-stats)
