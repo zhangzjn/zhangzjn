@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of Prof. Yong Liu. My major is Computer Vision and my research interests include: 
+I am pursuing my Ph.D. degree (2020.04 - Now⚡) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
 - 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
 - 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
 - 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection, Person Re-Identification, etc.
