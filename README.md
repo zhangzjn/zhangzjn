@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Jiangning Zhang (张江宁)** and work as a Senior Researcher at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree (2020.04 - 2022.10) in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
+I am **Jiangning Zhang (张江宁)** and I work as a Senior Researcher at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
 - 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
 - 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
 - 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection.
