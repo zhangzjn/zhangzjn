@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Jiangning Zhang (张江宁)** and I work as a Senior Researcher at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include: 
-- 🌱 Generative Adversarial Network (GAN), e.g., image/audio-guided face reenactment, face swapping, video generation, etc.
-- 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture improvement, light-wight vision model, etc.
-- 🌱 Semantic/Instance Segmentation, Point Could Reconstruction/Sampling, Anomaly Detection.
-- 💬 Feel free to drop me emails if you have interests.
+I am **Jiangning Zhang (张江宁)** and I work as a Senior Researcher at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
+- 🌱 GAN-/Diffusion-based AIGC researches with LLM, e.g., image/audio-guided talking face generation, face/head swapping, video generation, motion generation, 3D reconstruction, etc.<br>
+- 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
+- 🌱 Anomaly Classification and Segmentation.
+
+- 💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.
+- 💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team/) at Zhejiang University. 
+- 💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!!
 
 [![Jiangning Zhang's github stats](https://github-readme-stats.vercel.app/api?username=zhangzjn&hide=contribs,prs&show_icons=true&theme=blueberry)](https://github.com/zhangzjn/github-readme-stats)
