@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am <strong>Jiangning Zhang (张江宁)</strong> and I work as a Principal Researcher of two teams (Industry and AIGC orientations) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
+<strong>Jiangning Zhang (张江宁)</strong> works as a Principal Researcher of two teams (Industry and AIGC orientations) at YouTu Lab, Tencent, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team/). My major is Computer Vision and my research interests include:<br>
 🌱 GAN-/Diffusion-based AIGC researches with LLM, e.g., multi-modal image/video generation, 2D/3D virtual digital human related researches (3D face/body/hand reconstruction, multi-modal digital human drive, motion generation, etc.), text-to-image generation, multi-modal human-centric editing and generation, etc.<br>
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
 🌱 Anomaly Classification and Segmentation.
